@@ -2,6 +2,8 @@
 
 A new Flutter project created to tell everyone that How I Am Happy.
 
+![I am happy](https://user-images.githubusercontent.com/81625175/187413520-f8eaef4a-cc54-49f4-aa9c-c7a6d08e41ae.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
